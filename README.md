@@ -1,6 +1,6 @@
 基于django+ansible+ansibleapi+webssh实现的运维自动化管理系统（可当毕业设计）
 
-
+如果需要项目，请添加我的微信 python_kk 或者 QQ：976870170，包运行部署代码讲解
 
 软件架构说明
 
